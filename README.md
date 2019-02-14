@@ -1,0 +1,2 @@
+# QYAnyWaterfallLayout
+QYAnyWaterfallLayout 继承自UICollectionViewLayout ,支持任意定制UICollectionView的布局,更加轻量级
